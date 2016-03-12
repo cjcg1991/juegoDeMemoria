@@ -26,6 +26,7 @@ for dib in num {
     }
     
     
+    
     if  dib >= 30 && dib <= 40 {
         
         print("#  \(dib)  Viva Shift" )
